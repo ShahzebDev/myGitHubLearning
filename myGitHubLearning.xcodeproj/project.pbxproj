@@ -13,6 +13,7 @@
 		FC7D2FDA23E984AC007553AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7D2FD823E984AC007553AD /* Main.storyboard */; };
 		FC7D2FDC23E984AF007553AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC7D2FDB23E984AF007553AD /* Assets.xcassets */; };
 		FC7D2FDF23E984AF007553AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7D2FDD23E984AF007553AD /* LaunchScreen.storyboard */; };
+		FC7D2FE723E9880A007553AD /* MapClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7D2FE623E9880A007553AD /* MapClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FC7D2FDB23E984AF007553AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC7D2FDE23E984AF007553AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC7D2FE023E984AF007553AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC7D2FE623E9880A007553AD /* MapClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FC7D2FD423E984AC007553AD /* SceneDelegate.swift */,
 				FC7D2FD623E984AC007553AD /* ViewController.swift */,
 				FC7D2FD823E984AC007553AD /* Main.storyboard */,
+				FC7D2FE623E9880A007553AD /* MapClass.swift */,
 				FC7D2FDB23E984AF007553AD /* Assets.xcassets */,
 				FC7D2FDD23E984AF007553AD /* LaunchScreen.storyboard */,
 				FC7D2FE023E984AF007553AD /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC7D2FD723E984AC007553AD /* ViewController.swift in Sources */,
+				FC7D2FE723E9880A007553AD /* MapClass.swift in Sources */,
 				FC7D2FD323E984AC007553AD /* AppDelegate.swift in Sources */,
 				FC7D2FD523E984AC007553AD /* SceneDelegate.swift in Sources */,
 			);
